@@ -1,0 +1,30 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Demos and tutorials of pieces of functionality, meant more for reference and learning",
+  "main": "demo.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBird1984/Playground.git"
+  },
+  "keywords": [
+    "testing",
+    "test",
+    "code",
+    "javascript",
+    "html",
+    "css",
+    "php",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Thomas Bird <Godoploid@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasBird1984/Playground/issues"
+  },
+  "homepage": "https://github.com/ThomasBird1984/Playground#readme"
+}

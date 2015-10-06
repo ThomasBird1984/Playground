@@ -1,0 +1,35 @@
+{
+  "name": "Playground",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ThomasBird1984/Playground",
+  "authors": [
+    "Thomas Bird <Godoploid@gmail.com>"
+  ],
+  "description": "Demo of various sets of code and functionality for learning purposes",
+  "main": "demo.php",
+  "keywords": [
+    "demo",
+    "tutorials",
+    "tutorial",
+    "learning",
+    "education",
+    "javascript",
+    "php",
+    "html",
+    "css",
+    "less"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "backbone": "~1.2.3",
+    "jquery": "~2.1.4"
+  }
+}
