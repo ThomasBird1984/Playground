@@ -24,8 +24,10 @@ function display_string( $params ) {
 
 $test = new test;
 
+// pass literal callback function
 $test->add( 1, 1, function( $result ) {
 	echo $result;
 });
 
+// pass callback via string
 $test->call_from_string( 2, 3, 'display_string');
